@@ -225,6 +225,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 <img width="661" height="70" alt="Screenshot 2025-12-27 182436" src="https://github.com/user-attachments/assets/503e4d75-7bb4-4c96-99ee-e20c36b4e577" />
 
 # Output:
+<img width="1006" height="163" alt="{A4EBEAF1-7D59-40D5-9AA4-AEEAC4421CB7}" src="https://github.com/user-attachments/assets/4114df03-6e33-4c18-a909-c3dab6f3db08" />
 
 
 # Result: 
