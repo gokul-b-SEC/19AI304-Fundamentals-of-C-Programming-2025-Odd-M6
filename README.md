@@ -184,6 +184,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 <img width="674" height="67" alt="Screenshot 2025-12-27 182415" src="https://github.com/user-attachments/assets/06cfb52c-a278-46da-b9ba-5f1e06d7c962" />
 
 # Output:
+<img width="641" height="197" alt="Screenshot 2026-06-04 153748" src="https://github.com/user-attachments/assets/8fd50e54-7fe1-4772-b6eb-f3eda72e65a3" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -223,6 +225,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 <img width="661" height="70" alt="Screenshot 2025-12-27 182436" src="https://github.com/user-attachments/assets/503e4d75-7bb4-4c96-99ee-e20c36b4e577" />
 
 # Output:
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
